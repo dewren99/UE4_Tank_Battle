@@ -1,0 +1,3 @@
+C:\Users\Deniz-BOOTCAMP\Documents\GitHub\UE4_Tank_Battle\TankBattle\Source\TankBattle\TankBattle.Build.cs
+C:\Users\Deniz-BOOTCAMP\Documents\GitHub\UE4_Tank_Battle\TankBattle\Source\TankBattle.Target.cs
+C:\Users\Deniz-BOOTCAMP\Documents\GitHub\UE4_Tank_Battle\TankBattle\Source\TankBattleEditor.Target.cs

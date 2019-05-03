@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TankBattle.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Deniz-BOOTCAMP\Documents\GitHub\UE4_Tank_Battle\TankBattle\Intermediate\Build\Win64\TankBattleEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Deniz-BOOTCAMP\Documents\GitHub\UE4_Tank_Battle\TankBattle\Intermediate\Build\Win64\UE4Editor\Development\TankBattle\TankBattle.cpp.obj"
+"C:\Users\Deniz-BOOTCAMP\Documents\GitHub\UE4_Tank_Battle\TankBattle\Intermediate\Build\Win64\UE4Editor\Development\TankBattle\TankBattleGameModeBase.cpp.obj"
+"C:\Users\Deniz-BOOTCAMP\Documents\GitHub\UE4_Tank_Battle\TankBattle\Intermediate\Build\Win64\UE4Editor\Development\TankBattle\TankBattle.init.gen.cpp.obj"
+"C:\Users\Deniz-BOOTCAMP\Documents\GitHub\UE4_Tank_Battle\TankBattle\Intermediate\Build\Win64\UE4Editor\Development\TankBattle\TankBattleGameModeBase.gen.cpp.obj"
+"C:\Users\Deniz-BOOTCAMP\Documents\GitHub\UE4_Tank_Battle\TankBattle\Intermediate\Build\Win64\UE4Editor\Development\TankBattle\Default.rc2.res"
+/OUT:"C:\Users\Deniz-BOOTCAMP\Documents\GitHub\UE4_Tank_Battle\TankBattle\Intermediate\Build\Win64\UE4Editor\Development\TankBattle\UE4Editor-TankBattle.lib"
+/INCLUDE:IMPLEMENT_MODULE_TankBattle
